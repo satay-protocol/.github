@@ -27,8 +27,6 @@ Satay Strategies are compositions of Blocks that enable complex yield generation
 
 The Satay web app is available at this [link](https://app.satay.finance/) and its source is available in the [satay-client](https://github.com/satay-protocol/satay-client) repository.
 
-![app.satay.finance_.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa40178c-c45b-4b70-9040-23246cd0a996/app.satay.finance_.png)
-
 # Audit
 
 The Satay Vault Architecture passed an audit by Halborn Security on January 6th, 2023. The report is available in [smart-contract-audit](https://github.com/satay-protocol/smart-contract-audit) repository.
