@@ -14,14 +14,9 @@ Satay Finance is an all-in-one DeFi portfolio management tool offering three int
 
 Satay Strategies are compositions of Blocks that enable complex yield generation in one click. Users can deposit into Strategies directly or indirectly through Vaults. The following Strategies are currently in development:
 
-- [Leveraged Liquid Staking - Aries x Tortuga](https://github.com/satay-protocol/tortuga-aries-LLS)
-- [LSD LP Farming - Ditto x Liquidswap](https://github.com/satay-protocol/ditto-farming)
-- [Boosted LP Farming - Liquidswap](https://github.com/satay-protocol/liquidswap-automated-harvest-strategy)
-- Standard Liquid Staking - [Ditto](https://github.com/satay-protocol/simple-ditto-strategy) / [Tortuga](https://github.com/satay-protocol/simple-tortuga-strategy)
-
 # Vaults
 
-[Satay Vaults](https://github.com/satay-protocol/satay-aptos) are secure capital pools that optimize allocations to Strategies to maximize yield while limiting risk. Users can deposit into Vaults for seamless, broad exposure to the Aptos DeFi ecosystem. 
+Satay Vaults are secure capital pools that optimize allocations to Strategies to maximize yield while limiting risk. Users can deposit into Vaults for seamless, broad exposure to the Movement DeFi ecosystem. 
 
 # dApp
 
